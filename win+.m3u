@@ -1,4 +1,3 @@
-#EXTM3U x-tvg-url="" tv-test="CO.m3u"
-#EXTINF:-1 tvg-id="156" tvg-name="Win Sports +" tvg-logo="https://pbs.twimg.com/media/EOSM99MXkAE3dCl.jpg", | CL
+#EXTM3U 
+#EXTINF: -1 tvg-id="11" tvg-name="Win Sports +" tvg-chno="1" tvg-logo="https://pbs.twimg.com/media/EOSM99MXkAE3dCl.jpg" group-title="Ungrouped", Win Sports +
 http://saypopular.com:25461/oscar/20gar/52853
-
